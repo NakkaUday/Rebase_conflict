@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 appi
 pandu
+=======
+insta
+facebook
+whats app
+>>>>>>> 7d86ac3 (commited)
